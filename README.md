@@ -1,2 +1,2 @@
 # macroquad-hacking
-hacking repo for gamemaking
+hacking repo for games and projects in macroquad.
