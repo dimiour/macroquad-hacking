@@ -17,10 +17,10 @@ A game that uses basic circle collisions and a new joystick concept.
 
 ### checklist
 - [x] basic setup
-- [] finish joysticks
-- [] circle physics
-- [] map boundries
-- [] home screen
-- [] multiplayer
-- [] polishing
-- [] first release
+- [ ] finish joysticks
+- [ ] circle physics
+- [ ] map boundries
+- [ ] home screen
+- [ ] multiplayer
+- [ ] polishing
+- [ ] first release
